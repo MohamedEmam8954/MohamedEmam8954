@@ -1,23 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,75:6d28d9,100:9333ea&height=280&section=header&text=Mohamed%20Emam&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Application%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:4f46e5,100:7c3aed&height=300&section=header&text=Mohamed%20Emam&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=900&lines=Flutter+Developer+%F0%9F%93%B1;Mobile+Application+Developer+%F0%9F%9A%80;Building+Clean+%26+Scalable+Flutter+Apps;BLoC+%7C+MVVM+%7C+REST+APIs+%7C+Firebase;Learning+Software+Engineering+Beyond+the+Framework;Always+Learning.+Always+Building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Flutter+Developer+%F0%9F%93%B1;Building+Scalable+Mobile+Applications+%F0%9F%9A%80;Clean+Architecture+%7C+BLoC+%7C+REST+APIs;Dart+%7C+C%2B%2B+%7C+Firebase+%7C+SQL;Software+Engineering+Beyond+the+Framework;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://my-portfolio-github-io-eight.vercel.app/">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20MY%20PORTFOLIO-Visit%20Website-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-7C3AED?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohamed-emam-969575235/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MohamedEmam8954">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:emamm2494@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -28,234 +32,235 @@
 
 <div align="center">
 
-### `// SYSTEM ONLINE`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=700&color=8B949E&center=true&vCenter=true&width=700&lines=%3E%3E+Initializing+Flutter+Developer...;%3E%3E+Loading+Mobile+Engineering+Mindset...;%3E%3E+Architecture+%5BONLINE%5D;%3E%3E+Problem+Solving+%5BONLINE%5D;%3E%3E+Continuous+Learning+%5BONLINE%5D" alt="System status"/>
+### `> WHO AM I?`
 
 </div>
-
-<br>
-
-## `01 // ABOUT ME`
 
 ```text
 Mohamed Emam
-├── Flutter Developer
-├── Mobile Application Development
-├── Computer Science & Artificial Intelligence Graduate
-├── Building real-world mobile applications
-├── Exploring software engineering fundamentals
-└── Always improving the way I design and structure software
+│
+├── 📱 Flutter Developer
+├── 🚀 Mobile Application Development
+├── 🎓 Computer Science & AI Graduate
+├── 🧠 Software Engineering Enthusiast
+├── 🧩 Problem Solver
+└── 🔥 Always Building & Learning
 ```
 
-I'm a **Flutter Developer** focused on building modern, responsive, and maintainable mobile applications.
+I'm a **Flutter Developer** passionate about building mobile applications that are not only functional, but also **maintainable, scalable, and well-structured**.
 
-My journey started with Flutter, but I'm intentionally going beyond just learning widgets and packages.
+I started with Flutter, but my goal goes beyond the framework.
 
-I'm currently strengthening my understanding of:
+I'm continuously strengthening my foundation in **software engineering, computer science, architecture, algorithms, databases, operating systems, and networking**.
 
-* 🧠 Object-Oriented Programming
-* 🗄️ Databases & SQL
-* 🧩 Data Structures & Algorithms
-* 💻 Operating Systems
-* 🌐 Computer Networks
-* 🧮 Problem Solving
-* 🏗️ Software Architecture
-* 🔧 Git & GitHub
-* 📱 Flutter & Dart
-
-> **My goal isn't just to make an app work.
-> My goal is to understand why it works — and how to build it better.**
+> **I don't want to just build applications.
+> I want to understand the engineering behind them.**
 
 ---
 
-## `02 // CURRENT MISSION`
-
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     CURRENT MISSION                         ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  📱 Flutter              ████████████████████░░   BUILDING  ║
-║  🧠 Dart / OOP           ███████████████████░░░   LEARNING  ║
-║  🧩 Problem Solving      ████████████████░░░░░   TRAINING  ║
-║  🗄️ Databases            ██████████████░░░░░░░   LEARNING  ║
-║  🏗️ Architecture         ███████████████░░░░░░   EXPLORING ║
-║  🎨 UI / UX              █████████████████░░░░   BUILDING  ║
-║  ✨ Animations            ████████████░░░░░░░░░   EXPLORING ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## `03 // FLUTTER ENGINEERING`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,cpp" />
-
-</div>
+### `> CURRENTLY BUILDING MYSELF`
 
 <br>
 
-### 📱 Flutter
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,firebase,sqlite,git,github,vscode,androidstudio" />
 
-* Responsive & Adaptive UI
-* Widget composition
+<br><br>
+
+<img src="https://img.shields.io/badge/Flutter-Developing-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-Learning-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-Problem%20Solving-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software%20Architecture-Exploring-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Algorithms-Practicing-16A34A?style=flat-square"/>
+
+</div>
+
+---
+
+## `01 // WHAT I BUILD`
+
+### 📱 Flutter Applications
+
+I focus on building applications with:
+
+* Responsive & adaptive UI
+* Clean widget composition
+* Predictable state management
+* REST API integration
+* Local data persistence
+* Reusable components
 * Navigation & routing
 * Forms & validation
-* State management
-* Local persistence
-* REST API integration
-* Reusable widgets
-* Custom UI components
 * Animations & transitions
+* Maintainable project structures
 
 ### 🧠 State Management
 
 ```text
-                    APPLICATION STATE
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-           Cubit                        BLoC
-             │                           │
-             └─────────────┬─────────────┘
-                           │
-                    UI reacts to state
+                    APPLICATION
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │     UI      │
+                  └──────┬──────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │  BLoC / Cubit │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ Business Logic│
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ Repository /  │
+                 │   Services    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ API / Storage │
+                 └───────────────┘
 ```
-
-I'm currently working with **Cubit/BLoC** to keep application state predictable and separate UI concerns from business logic.
 
 ---
 
-## `04 // ARCHITECTURE`
+## `02 // ENGINEERING MINDSET`
 
-I'm learning how to structure Flutter applications so that the project doesn't become difficult to maintain as it grows.
+A framework can help build an application.
+
+**Engineering principles are what help keep it maintainable.**
+
+I'm actively learning and applying:
+
+| Area                    | Focus                             |
+| ----------------------- | --------------------------------- |
+| 🏗️ Architecture        | MVVM, Clean Architecture concepts |
+| 🧠 State Management     | BLoC, Cubit                       |
+| 💉 Dependency Injection | GetIt                             |
+| 🌐 Networking           | REST APIs, Dio                    |
+| 🗄️ Databases           | SQL, SQLite                       |
+| 💾 Local Storage        | Hive, SharedPreferences           |
+| 🧩 Problem Solving      | C++                               |
+| 🔧 Version Control      | Git, GitHub                       |
+| 🎨 UI Engineering       | Responsive & Adaptive UI          |
+| ✨ Motion                | Flutter Animations                |
+
+---
+
+## `03 // ARCHITECTURE`
+
+My approach to application structure is centered around **separation of responsibilities**.
 
 ```text
-┌──────────────────────────────────────────────┐
-│                    UI LAYER                  │
-│                                              │
-│       Screens • Widgets • Components         │
-└──────────────────────┬───────────────────────┘
+┌─────────────────────────────────────────────┐
+│                    PRESENTATION             │
+│                                             │
+│          Screens • Widgets • UI             │
+└──────────────────────┬──────────────────────┘
                        │
                        ▼
-┌──────────────────────────────────────────────┐
-│                STATE MANAGEMENT              │
-│                                              │
-│              Cubit / BLoC                    │
-└──────────────────────┬───────────────────────┘
+┌─────────────────────────────────────────────┐
+│                STATE MANAGEMENT             │
+│                                             │
+│                 BLoC / Cubit                │
+└──────────────────────┬──────────────────────┘
                        │
                        ▼
-┌──────────────────────────────────────────────┐
-│                 DOMAIN LOGIC                │
-│                                              │
-│          Application / Business Logic        │
-└──────────────────────┬───────────────────────┘
+┌─────────────────────────────────────────────┐
+│                 APPLICATION                 │
+│                                             │
+│             Business / Domain Logic         │
+└──────────────────────┬──────────────────────┘
                        │
                        ▼
-┌──────────────────────────────────────────────┐
-│                   DATA                       │
-│                                              │
-│ APIs • Local Storage • Models • Services     │
-└──────────────────────────────────────────────┘
+┌─────────────────────────────────────────────┐
+│                    DATA                     │
+│                                             │
+│      APIs • Repositories • Models           │
+│      Storage • Services                     │
+└─────────────────────────────────────────────┘
 ```
 
-### Architecture Concepts I'm Working With
+### Principles I Care About
 
-* MVVM
-* Clean Architecture concepts
-* Feature-based project structure
-* Separation of concerns
-* Dependency Injection
-* Repository concepts
-* Service layers
-* Reusable components
+```text
+Separation of Concerns
+        ↓
+Single Responsibility
+        ↓
+Reusable Components
+        ↓
+Predictable State
+        ↓
+Testable Logic
+        ↓
+Maintainable Code
+```
 
 ---
 
-## `05 // DATA & BACKEND`
+## `04 // FLUTTER TOOLKIT`
 
 <div align="center">
 
+### Core
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+<br><br>
+
+### Backend & Data
+
 <img src="https://skillicons.dev/icons?i=firebase,sqlite" />
+
+<br><br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,cpp" />
 
 </div>
 
+<br>
+
 ```text
-REMOTE
-  │
-  ├── REST APIs
-  ├── Dio
-  └── Interceptors
-
-LOCAL
-  │
-  ├── Hive
-  ├── SQLite
-  └── SharedPreferences
-
-BACKEND SERVICES
-  │
-  └── Firebase
+FLUTTER
+├── UI
+│   ├── Responsive Layouts
+│   ├── Adaptive UI
+│   ├── Custom Widgets
+│   ├── CustomPainter
+│   └── Animations
+│
+├── STATE
+│   ├── BLoC
+│   └── Cubit
+│
+├── NETWORKING
+│   ├── REST APIs
+│   ├── Dio
+│   └── Interceptors
+│
+├── STORAGE
+│   ├── Hive
+│   ├── SQLite
+│   └── SharedPreferences
+│
+└── INFRASTRUCTURE
+    ├── go_router
+    └── GetIt
 ```
-
-### Tools & Technologies
-
-* REST APIs
-* Dio
-* HTTP communication
-* Interceptors
-* JSON serialization / parsing
-* Firebase
-* Hive
-* SQLite
-* SharedPreferences
-* Local data persistence
 
 ---
 
-## `06 // NAVIGATION & APP INFRASTRUCTURE`
+## `05 // UI ENGINEERING`
 
-```text
-Flutter Application
-        │
-        ├── go_router
-        │      └── Navigation / Routing
-        │
-        ├── GetIt
-        │      └── Dependency Injection
-        │
-        ├── BLoC / Cubit
-        │      └── State Management
-        │
-        └── Services
-               ├── API
-               ├── Storage
-               └── Application Utilities
-```
-
-Technologies I work with:
-
-* `go_router`
-* `GetIt`
-* `Dio`
-* `BLoC`
-* `Cubit`
-* `SharedPreferences`
-* `Hive`
-
----
-
-## `07 // UI ENGINEERING`
-
-I enjoy the part of Flutter where **logic meets visual design**.
+I enjoy turning ideas and designs into interfaces that feel **responsive, consistent, and intentional**.
 
 ```text
 DESIGN
@@ -274,251 +279,267 @@ INTERACTION
    ├── Gestures
    ├── Forms
    ├── Navigation
-   └── User Feedback
+   └── Feedback
    │
    ▼
 POLISH
    │
+   ├── Animations
    ├── Transitions
-   ├── Micro-interactions
-   └── Animations
+   └── Micro-interactions
 ```
 
-### UI Skills
+### UI Technologies
 
-* Responsive layouts
-* Adaptive layouts
-* `Row` / `Column` / `Stack`
-* Constraints & layout behavior
-* `Expanded` / `Flexible`
-* `ListView`
-* `GridView`
-* `PageView`
-* Slivers
-* Custom widgets
-* CustomPainter
-* Forms & validation
-* Reusable UI components
+`Row` · `Column` · `Stack` · `Expanded` · `Flexible` · `ListView` · `GridView` · `PageView` · `Slivers` · `CustomPainter`
 
 ---
 
-
-## `09 // SOFTWARE ENGINEERING FOUNDATION`
-
-I'm building my foundation beyond Flutter because a mobile framework is only one part of software engineering.
+## `06 // DATA & BACKEND`
 
 ```text
-                SOFTWARE ENGINEERING
+                    APPLICATION
                          │
-        ┌────────────────┼────────────────┐
-        │                │                │
-       OOP             DATABASES       NETWORKS
-        │                │                │
-        ├── Classes      ├── SQL         ├── HTTP
-        ├── Objects      ├── Relations   ├── APIs
-        ├── Inheritance  ├── Keys        └── Requests
-        ├── Abstraction  └── Integrity
-        └── Interfaces
-                         │
-                ┌────────┴────────┐
-                │                 │
-             ALGORITHMS          OS
-                │                 │
-                ├── DS            ├── Processes
-                ├── Searching     ├── Memory
-                ├── Sorting       └── Concurrency
-                └── Complexity
+              ┌──────────┴──────────┐
+              │                     │
+           REMOTE                  LOCAL
+              │                     │
+       ┌──────┴──────┐       ┌──────┴─────────┐
+       │             │       │                │
+     REST           Firebase  Hive           SQLite
+       │                             │
+      Dio                      SharedPreferences
+       │
+  Interceptors
 ```
 
-### Current Fundamentals
+### Experience With
 
-* OOP
-* Data Structures
-* Algorithms
-* Databases
-* SQL
-* Operating Systems
-* Computer Networks
-* Problem Solving
-* Git & GitHub
+* REST APIs
+* Dio
+* HTTP communication
+* JSON parsing / serialization
+* Firebase
+* Hive
+* SQLite
+* SharedPreferences
+* Local persistence
 
 ---
 
-## `10 // PROBLEM SOLVING`
+## `07 // PROBLEM SOLVING`
+
+Outside Flutter, I'm actively practicing **C++ and algorithmic problem solving**.
 
 ```text
-PROBLEM
-   │
-   ▼
-UNDERSTAND
-   │
-   ▼
-BREAK IT DOWN
-   │
-   ▼
-FIND THE LOGIC
-   │
-   ▼
-IMPLEMENT
-   │
-   ▼
-TEST
-   │
-   ▼
-OPTIMIZE
+                 ┌──────────────┐
+                 │    PROBLEM   │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │  UNDERSTAND  │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │ BREAK IT DOWN│
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │ FIND LOGIC   │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │  IMPLEMENT   │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │ TEST & DEBUG │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │   OPTIMIZE   │
+                 └──────────────┘
 ```
 
-I'm actively practicing problem solving with **C++** while strengthening my understanding of:
+### Current Topics
 
 * Arrays
 * Strings
 * Searching
 * Sorting
 * Recursion
-* Basic mathematics
-* Complexity
-* Data structures
-* Algorithmic thinking
+* Mathematics
+* Data Structures
+* Algorithms
+* Time Complexity
+* Space Complexity
+* Competitive Programming
 
 > **I don't want to memorize solutions.
 > I want to become better at finding them.**
 
 ---
 
-## `11 // TOOLCHAIN`
+## `08 // COMPUTER SCIENCE FOUNDATION`
 
-<div align="center">
+Flutter is my specialization.
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,firebase,sqlite,git,github,vscode,androidstudio" />
+**Computer Science is my foundation.**
 
-</div>
+```text
+                 SOFTWARE ENGINEERING
+                          │
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
+      OOP              DATABASES          NETWORKS
+       │                  │                  │
+       │                  │                  │
+       ▼                  ▼                  ▼
+   Classes              SQL                HTTP
+   Objects            Relations             APIs
+   Abstraction        Constraints          Requests
+   Inheritance        Integrity            Protocols
+       │                  │                  │
+       └──────────────────┼──────────────────┘
+                          │
+                 ┌────────┴────────┐
+                 │                 │
+              ALGORITHMS          OS
+                 │                 │
+                 ▼                 ▼
+             Data Structures   Processes
+             Searching          Memory
+             Sorting            Concurrency
+             Complexity
+```
 
-<br>
+### Foundation
 
-| Category                | Tools                                     |
-| ----------------------- | ----------------------------------------- |
-| 📱 Mobile               | Flutter, Dart                             |
-| 🧠 State                | BLoC, Cubit                               |
-| 🏗️ Architecture        | MVVM, Clean Architecture concepts         |
-| 🌐 Networking           | REST APIs, Dio                            |
-| 🔥 Backend              | Firebase                                  |
-| 💾 Storage              | Hive, SQLite, SharedPreferences           |
-| 🧭 Navigation           | go_router                                 |
-| 💉 Dependency Injection | GetIt                                     |
-| 🎨 UI                   | Responsive UI, Adaptive UI, CustomPainter |
-| ✨ Motion                | Flutter Animation APIs                    |
-| 🧩 Problem Solving      | C++                                       |
-| 🔧 Version Control      | Git, GitHub                               |
-| 🛠️ IDE                 | VS Code, Android Studio                   |
+`OOP` · `Data Structures` · `Algorithms` · `Databases` · `SQL` · `Operating Systems` · `Computer Networks` · `Problem Solving`
 
 ---
 
-## `12 // DEVELOPMENT WORKFLOW`
+## `09 // DEVELOPMENT WORKFLOW`
 
 ```text
-             ┌─────────────────┐
-             │      IDEA       │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │   REQUIREMENTS  │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │    UI / UX      │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │   ARCHITECTURE  │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │   DEVELOPMENT   │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │     TESTING     │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ REFACTOR / POLISH│
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │     RELEASE     │
-             └─────────────────┘
+          IDEA
+           │
+           ▼
+      REQUIREMENTS
+           │
+           ▼
+        UI / UX
+           │
+           ▼
+      ARCHITECTURE
+           │
+           ▼
+       DEVELOPMENT
+           │
+           ▼
+         TESTING
+           │
+           ▼
+      DEBUG / REFACTOR
+           │
+           ▼
+         POLISH
+           │
+           ▼
+        RELEASE
+```
+
+My goal is not simply:
+
+```text
+"Does it work?"
+```
+
+It's:
+
+```text
+Does it work?
+     +
+Is it readable?
+     +
+Is it maintainable?
+     +
+Can it scale?
+     +
+Can another developer understand it?
 ```
 
 ---
 
-## `13 // WHAT I CARE ABOUT`
+## `10 // WHAT I CARE ABOUT`
 
 ### ⚡ Performance
 
-I care about understanding what happens behind the UI:
+Understanding what happens behind the UI:
 
 * Widget rebuilds
 * Build performance
 * Async operations
 * Scroll performance
-* Avoiding unnecessary rebuilds
+* Unnecessary rebuilds
 * Smooth interactions
 
 ### 🧩 Maintainability
 
-I prefer code that remains understandable after the project grows.
+Writing code that remains understandable as the project grows:
 
 * Clear naming
 * Separation of responsibilities
 * Reusable components
-* Organized project structure
+* Organized architecture
 * Predictable state management
 
 ### 🎨 User Experience
 
-A technically correct application should still feel good to use.
+Technical quality should meet good UX:
 
 * Responsive layouts
 * Clear feedback
 * Smooth navigation
 * Meaningful animations
-* Consistent UI
+* Consistent interfaces
 
 ---
 
-## `14 // LEARNING ROADMAP`
+## `11 // LEARNING ROADMAP`
 
 ```text
-                    MY ROADMAP
-                        │
-        ┌───────────────┼────────────────┐
-        │               │                │
-        ▼               ▼                ▼
-     FLUTTER           CS             PROBLEM
-        │               │             SOLVING
-        │               │                │
-        ├─ Advanced UI  ├─ OOP          ├─ C++
-        ├─ BLoC         ├─ DB           ├─ DS
-        ├─ APIs         ├─ OS           ├─ Algorithms
-        ├─ Architecture ├─ Networks     └─ Complexity
-        └─ Animations   └─ Fundamentals
-                        │
-                        ▼
-                 BETTER ENGINEER
+                         🚀
+                         │
+                ┌────────┴────────┐
+                │                 │
+             FLUTTER             CS
+                │                 │
+        ┌───────┼───────┐    ┌────┼────┐
+        │       │       │    │    │    │
+       UI     BLoC     APIs  OOP  DB   OS
+        │       │       │    │    │    │
+        └───────┴───────┘    └────┴────┘
+                │                 │
+                └────────┬────────┘
+                         │
+                    PROBLEM SOLVING
+                         │
+                         ▼
+                  BETTER ENGINEER
 ```
 
 ### Currently Improving
 
 * 📱 Advanced Flutter
 * 🧠 Dart & OOP
-* 🏗️ Application Architecture
+* 🏗️ Software Architecture
 * 🧩 Data Structures & Algorithms
 * 🗄️ Databases & SQL
 * 💻 Operating Systems
@@ -529,30 +550,55 @@ A technically correct application should still feel good to use.
 
 ---
 
-## `15 // DEVELOPER PHILOSOPHY`
+## `12 // FEATURED WORK`
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│  "Don't just learn the framework.                       │
-│   Learn the engineering behind it."                     │
-│                                                          │
-│  "Don't just copy the solution.                         │
-│   Understand the problem."                              │
-│                                                          │
-│  "Don't just make it work.                              │
-│   Make it understandable."                              │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
+### 🚧 Projects are being continuously built and improved.
+
+</div>
+
+For a broader look at my work, projects, and development journey:
+
+<div align="center">
+
+<a href="https://my-portfolio-github-io-eight.vercel.app/">
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20EXPLORE%20MY%20PORTFOLIO-7C3AED?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## `16 // CONNECT`
+## `13 // DEVELOPER PHILOSOPHY`
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   BUILD WITH PURPOSE.                                     │
+│                                                            │
+│   UNDERSTAND THE PROBLEM.                                 │
+│                                                            │
+│   LEARN THE ENGINEERING.                                  │
+│                                                            │
+│   WRITE CODE THAT OTHERS CAN UNDERSTAND.                  │
+│                                                            │
+│   KEEP LEARNING.                                          │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+### `Don't just learn the framework.`
+
+### `Learn the engineering behind it.`
+
+</div>
+
+---
+
+## `14 // LET'S CONNECT`
 
 <div align="center">
 
@@ -561,11 +607,11 @@ A technically correct application should still feel good to use.
 </a>
 
 <a href="https://www.linkedin.com/in/mohamed-emam-969575235/">
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/MohamedEmam8954">
-<img src="https://img.shields.io/badge/%F0%9F%92%BB%20GITHUB-VIEW%20MY%20CODE-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BB%20GITHUB-EXPLORE%20MY%20CODE-181717?style=for-the-badge"/>
 </a>
 
 <a href="mailto:emamm2494@gmail.com">
@@ -574,14 +620,14 @@ A technically correct application should still feel good to use.
 
 <br><br>
 
-<samp>Open to learning, building, and creating meaningful software.</samp>
+<samp>Open to learning. Open to building. Open to meaningful software.</samp>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:6d28d9,100:0f172a&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,45:4f46e5,100:020617&height=170&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
