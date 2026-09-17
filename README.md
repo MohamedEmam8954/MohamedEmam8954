@@ -157,25 +157,6 @@ PROBLEM → UNDERSTAND → BREAK DOWN → FIND LOGIC → IMPLEMENT → TEST → 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:7c3aed&height=2&width=100%25"/>
 
-## `04` &nbsp;GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedEmam8954&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEmam8954&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEmam8954&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedEmam8954&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" height="180"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedEmam8954&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
-
-</div>
-
-<br>
 
 ## `05` &nbsp;CONTRIBUTION SNAKE
 
