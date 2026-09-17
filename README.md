@@ -302,58 +302,6 @@ POLISH
 
 ---
 
-## `08 // MOTION & ANIMATION LAB`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2300&pause=800&color=F59E0B&center=true&vCenter=true&width=750&lines=Motion+is+part+of+the+experience.;Learning+Flutter+Animations.;Making+interfaces+feel+alive.;From+simple+transitions+to+interactive+motion." alt="Animation typing"/>
-
-</div>
-
-I'm currently exploring Flutter animations with a focus on **understanding the mechanics**, not just copying animation code.
-
-### Exploring
-
-```text
-Implicit Animations
-       │
-       ├── AnimatedContainer
-       ├── AnimatedOpacity
-       ├── AnimatedPositioned
-       └── TweenAnimationBuilder
-       
-Explicit Animations
-       │
-       ├── AnimationController
-       ├── Tween
-       ├── CurvedAnimation
-       └── AnimatedBuilder
-
-Transitions
-       │
-       ├── Hero
-       ├── FadeTransition
-       ├── PageRouteBuilder
-       └── Custom Page Transitions
-```
-
-### Animation Concepts I'm Practicing
-
-* AnimationController
-* Tween
-* Curves
-* AnimatedBuilder
-* Hero animations
-* Page transitions
-* Staggered animation concepts
-* Gesture-driven animation
-* Micro-interactions
-* Performance-aware animation
-
-> **The target isn't "more animations".
-> The target is meaningful motion that improves the experience.**
-
----
 
 ## `09 // SOFTWARE ENGINEERING FOUNDATION`
 
