@@ -12,6 +12,32 @@
   />
 </p>
 
+<p align="center">
+
+  <a href="https://my-portfolio-github-io-eight.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-Visit%20Website-7C3AED?style=for-the-badge"
+      alt="My Portfolio"
+    />
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="YOUR_GITHUB_URL">
+    <img
+      src="https://img.shields.io/badge/GITHUB-Explore-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+</p>
+
+
 <!-- ========================= HERO ========================== -->
 
 <p align="center">
