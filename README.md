@@ -38,3 +38,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" />
 
 </p>
+
+## 📱 What I Build
+
+- 📱 Cross-platform mobile applications with Flutter
+- 🧱 Clean and maintainable application architecture
+- 🎯 State management using BLoC / Cubit
+- 🌐 REST API integration using Dio
+- 🔐 Local data persistence
+- 🔥 Firebase integrations
+- 🎨 Responsive & adaptive UI
+- 🚀 Performance-focused Flutter applications
